@@ -1,0 +1,7 @@
+:root {
+  --main-background: #e7e7ee;
+}
+#root{
+  background-color: #fff;
+  min-height: 100vh;
+}
